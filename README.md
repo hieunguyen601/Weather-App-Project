@@ -12,7 +12,7 @@ A simple and responsive weather web app that allows users to get current weather
 
 ## 📸 Screenshot
 
-<img src="https://github.com/hieunguyen601/Weather-App-Project/blob/main/images/ScreenShot%20App.png?raw=true" alt="Weather App Screenshot" width="500"/>
+<img src="https://github.com/hieunguyen601/Weather-App-Project/blob/main/images/ScreenShot%20App.png?raw=true" alt="Weather App Screenshot" width="300"/>
 
 ## 🚀 Features
 
