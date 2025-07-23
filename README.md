@@ -12,8 +12,7 @@ A simple and responsive weather web app that allows users to get current weather
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./screenshot.png)
-*Example of the app showing real-time weather data.*
+![Weather App Screenshot](./images/ScreenShotApp.png)
 
 ## 🚀 Features
 
